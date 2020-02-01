@@ -5,7 +5,7 @@ RUN apk add --update --no-cache \
     bash \
     bc \
     ca-certificates \
-    core-utils \
+    coreutils \
     curl \
     git \
     gnupg \
